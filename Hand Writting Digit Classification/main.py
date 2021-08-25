@@ -31,7 +31,7 @@ model.fit(X_train, y_train, epochs=10)
 
 # predict the test image value
 y = model.evaluate(X_test,y_test)
-print(y)
+print(np.argmax(y[0]))
 
 y_predicted = model.predict(X_test)
 y_predicted_labels = [np.argmax(i) for i in y_predicted]
