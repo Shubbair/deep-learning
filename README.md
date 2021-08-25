@@ -1,2 +1,3 @@
-# Deep_Learning
+# Deep Learning 🧠
+
 this is examples of deep learning course 
