@@ -10,4 +10,8 @@ model structure :
 
 <img height="250px" src="model.png" />
 
-the dataset from kaggle download it and use it : https://www.kaggle.com/ahmedabelal/arabic-poetry
+the dataset from kaggle : https://www.kaggle.com/ahmedabelal/arabic-poetry
+
+to start : 
+
+> unzip the dataset file (.csv)
