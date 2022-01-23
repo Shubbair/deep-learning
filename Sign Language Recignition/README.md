@@ -18,7 +18,7 @@ why this , to distroy the chain between normal and deaf people
 
 I train the model with (99.6%) and you can you used it with lifetime camera
 
-## Data sources and AI methods
+## AI methods
 
 | Syntax      | Description |
 | ----------- | ----------- |
