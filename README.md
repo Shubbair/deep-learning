@@ -1,3 +1,3 @@
 # Deep Learning 🧠
 
-this is examples of deep learning course 
+this is implementation of deep learning 
