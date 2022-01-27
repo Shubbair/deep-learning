@@ -1,3 +1,3 @@
 # Weather Prediction
 
-### model score 93%
+### model score 92.38%
