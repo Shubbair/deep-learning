@@ -1,6 +1,6 @@
 # Potato Disease Detection
 
-### Model Score : 98.84%
+### Model Score : 96.76%
 
 #### dataset from kaggle : [here](https://www.kaggle.com/hussainsalih/potato-leaf-disease-detection/data)
 
