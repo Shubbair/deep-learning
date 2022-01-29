@@ -2,4 +2,6 @@
 
 ### Model Score : 98.84%
 
-#### dataset from kaggle download it : [here](https://www.kaggle.com/hussainsalih/potato-leaf-disease-detection/data)
+#### dataset from kaggle : [here](https://www.kaggle.com/hussainsalih/potato-leaf-disease-detection/data)
+
+### are loaded in `Potato-Leaf` folder 📁 you have to go inside the folder and unzip the files of images then use it
