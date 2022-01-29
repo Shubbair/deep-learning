@@ -4,4 +4,4 @@
 
 #### dataset from kaggle : [here](https://www.kaggle.com/hussainsalih/potato-leaf-disease-detection/data)
 
-### are loaded in `Potato-Leaf` folder 📁 you have to go inside the folder and unzip the files of images then use it
+##### The Data are loaded in `Potato-Leaf` folder 📁 you have to go inside the folder and unzip the files of images then use it
