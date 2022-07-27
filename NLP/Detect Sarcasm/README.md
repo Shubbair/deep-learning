@@ -1,6 +1,6 @@
 # Sarcasm Detection
 
-### Accuracy 99%
+### Accuracy ~90%
 
 #### About dataset
 
