@@ -1,0 +1,5 @@
+# Text Classification With Transformer
+
+An Arabic dataset is created from Arabic Saudi tweets and is manully labelled according to the polarity that each tweet conveys (positive 1, negative 0). To understand the effect of social events and political reforms on Arabic societies, polarizing developments and policies associated with Saudi Arabia’s 2030 vision are targeted in this dataset. The established vision aims to enhance the overall development of Saudi Arabia in many sectors such as economical, educational, health, tourism, etc. These events include allowing women to drive, suspending the duties of religious police, opening cinema theatres (previously banned), allowing women to enter football stadiums to watch football matches (previously restricted to male access only), etc. Arabic tweets discussing these polarizing events along with other controversial issues were targeted and collected from Twitter using Twitter’s API. The data collection phase spanned over a period of two months during the months of October and November 2018.
+
+to know more about dataset [here](https://www.kaggle.com/datasets/snalyami3/arabic-sentiment-analysis-dataset-ss2030-dataset)
